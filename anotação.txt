@@ -1,0 +1,3 @@
+nest g = cria um controller ou um service na aplicação
+nest g resource =  cria todas a operações de crud do projeto
+kebad case = tudo em minusculo
