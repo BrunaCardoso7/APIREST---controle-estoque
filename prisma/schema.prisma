@@ -14,5 +14,4 @@ model Products{
   id Int @id @default(autoincrement())
   name String
   valor Float
-  quantity Int
 }
